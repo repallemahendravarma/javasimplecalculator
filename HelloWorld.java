@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("Hello, this is demo 1 of poll scm");
         System.out.println("Hello, this is demo 2 of poll scm");
         System.out.println("jenkins webhooks");
+        System.out.println("when push to github in jenkins there triger github hook so it rebuild again");
         
     }
 }
